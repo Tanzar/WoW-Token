@@ -1,0 +1,1 @@
+java -jar %JAVA_HOME%WoW_token.jar
